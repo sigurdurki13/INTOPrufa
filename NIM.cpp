@@ -27,7 +27,7 @@ void spila( );
 //Ég leyfi mér að nota eina víðværa breytu af því að forritið notar alltaf
 //mismargar hrúgur í hvert og eitt skipti:
 int hrugufjoldi;
-
+//tommi
 //Hér byrjar aðalforritið:
 int main( )
 {
