@@ -11,7 +11,7 @@ void birta( int* hruga );
 
 //Şetta fall á ağ reikna út hversu margar eldspıtur eru eftir í hrúgunum:
 int samtals( int* hruga );
-
+//siggiklikk
 //Şetta fall lætur tölvuna gera:
 void tolva( int* hruga );
 
